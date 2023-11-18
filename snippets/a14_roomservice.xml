@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oneplus/salami" remote="github" name="crdroidandroid/android_device_oneplus_salami" revision="14.0" />
+  <project path="device/oneplus/sm8550-common" remote="github" name="crdroidandroid/android_device_oneplus_sm8550-common" revision="14.0" />
+  <project path="vendor/oneplus/salami" remote="crdroid-gitlab" name="crdroidandroid/proprietary_vendor_oneplus_salami" revision="14.0" />
+  <project path="kernel/oneplus/sm8550" remote="github" name="crdroidandroid/android_kernel_oneplus_sm8550" revision="14.0" />
+  <project path="kernel/oneplus/sm8550-devicetrees" remote="github" name="crdroidandroid/android_kernel_oneplus_sm8550-devicetrees" revision="14.0" />
+  <project path="kernel/oneplus/sm8550-modules" remote="github" name="crdroidandroid/android_kernel_oneplus_sm8550-modules" revision="14.0" />
+  <project path="hardware/oplus" remote="github" name="crdroidandroid/android_hardware_oplus" revision="14.0" />
+  <project path="vendor/oneplus/camera" remote="crdroid-gitlab" name="crdroidandroid/proprietary_vendor_oneplus_camera" revision="14.0" />
+  <project path="vendor/oneplus/sm8550-common" remote="crdroid-gitlab" name="crdroidandroid/proprietary_vendor_oneplus_sm8550-common" revision="14.0" />
+  <project path="vendor/oneplus-firmware" remote="crdroid-gitlab" name="crdroidandroid/android_vendor_oneplus-firmware" revision="13.0" />
+</manifest>
